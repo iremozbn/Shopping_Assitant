@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+A shopping assistant chatbot project powered by Gemini API integration. It can analyze product features and provide personalized recommendations to users.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
